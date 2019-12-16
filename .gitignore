@@ -1,0 +1,5 @@
+.idea
+dir
+dir-linked
+node_modules
+*.log

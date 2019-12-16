@@ -1,0 +1,11 @@
+{
+  "name": "chokidar-issue-917",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dmitriy Pushkov <ezze@ezze.org>",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.3.1",
+    "rimraf": "^3.0.0"
+  }
+}
