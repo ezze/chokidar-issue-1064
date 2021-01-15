@@ -5,7 +5,7 @@
   "author": "Dmitriy Pushkov <ezze@ezze.org>",
   "license": "MIT",
   "dependencies": {
-    "chokidar": "^3.3.1",
+    "chokidar": "^3.5.0",
     "rimraf": "^3.0.0"
   }
 }
